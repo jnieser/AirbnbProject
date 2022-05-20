@@ -18,6 +18,6 @@ To be more specific, this project analyzes return-on-investment of Airbnb hosts 
 
 Questions 1, 2, 4, and 5 are crucial to investors while question 3 has economical values.
 
-Further reading about the project can be found in report.pdf
+Further reading about the project can be found in write-up.pdf
 
 Note: This project is a Capstone project for Master of Arts in Statistics at UC Berkeley. I worked with Lulude Sun, Shirly Zhai, and Judy Chen on this project. However, Lulude Sun and I focused on the parts that are significantly different from the other two group members. Everything here is the work by Jiayang Nie and Lulude Sun.
