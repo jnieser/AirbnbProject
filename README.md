@@ -18,6 +18,6 @@ To be more specific, this project analyzes return-on-investment of Airbnb hosts 
 
 Questions 1, 2, 4, and 5 are crucial to investors while question 3 has economical values.
 
-[a relative link](Revenue_Prediction_and_Price_Optimization___Airbnb (5).pdf)
+[a link](Revenue_Prediction_and_Price_Optimization___Airbnb (5).pdf)
 
 Note: This project is a Capstone project for Master of Arts in Statistics at UC Berkeley. I worked with Lulude Sun, Shirly Zhai, and Judy Chen on this project. However, Lulude Sun and I focused on the parts that are significantly different from the other two group members. Everything here is the work by Jiayang Nie and Lulude Sun.
